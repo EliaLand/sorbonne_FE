@@ -1,1 +1,1 @@
-# sorbonne_FE
+# Sorbonne - Financial Economics
