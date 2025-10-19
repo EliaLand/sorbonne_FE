@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Images/sorbonne_logo.png" alt="Logo" width="300"/>
+  <img src="Images/nn_sorbonne_logo.png" alt="Logo" width="300"/>
 </p>
 
 # **SCORING & ECONOMETRICS - Assignment 1**
