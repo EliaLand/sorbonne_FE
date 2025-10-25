@@ -1,1 +1,1 @@
-# Sorbonne - Financial Economics
+# Sorbonne - Neural Networks for Financial Default Prediction
